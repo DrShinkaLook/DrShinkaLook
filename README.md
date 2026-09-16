@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kobi, a student interested in computer engineering, automation, and systems.  
+I'm Kobi, a student interested in computer science engineering, automation, and systems.  
 
 I like working with hardware, repairing devices, and understanding how things function behind the scenes.
 
