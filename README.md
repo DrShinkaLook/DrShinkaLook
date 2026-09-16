@@ -7,5 +7,5 @@ I like working with hardware, repairing devices, and understanding how things fu
 Outside of coding and school, you'll usually find me being outside, working out, and experimenting with things I'm curious about.
 
 ### Fun facts:
-- Vinland Saga is my favorite anime.
+- My favorite color is blue.
 - I do not like coffee.
